@@ -15,8 +15,8 @@ Possuo conhecimento em HTML5, CSS3, Javascript, React, Java e Git. ✔
 
  <div>
   <a href="https://github.com/chaaarlees5">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=chaaarlees5&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaarlees5&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=chaaarlees5&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaarlees5&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <h4>Linguagens e Ferramentas:</h4>
