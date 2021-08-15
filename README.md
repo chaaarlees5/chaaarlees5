@@ -2,7 +2,7 @@
 
 O meu nome é Charles, sou estudante na área de desenvolvimento Full Stack. <br>
 Estou extremamente focado em conhecer novas linguagens e ferramentas, além de me aperfeiçoar nas linguagens que já conheço. 👌<br>
-Possuo conhecimento em HTML5, CSS3, Javascript, React, Java e Git. ✔
+Possuo conhecimento em HTML5, CSS3, Javascript, ReactJS, Java e Git. ✔
 
 - 👨‍🎓 Possuo formação como Técnico Eletroeletrônico e Engenheiro Eletrônico.
 - 🌱 Estou realizando um curso na área de desenvolvimento Full Stack pela Generation Brasil.
