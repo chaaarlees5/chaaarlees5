@@ -1,12 +1,11 @@
 ### Olá, seja bem vindo(a) ao meu Github. 👋
 
-O meu nome é Charles, sou estudante na área de desenvolvimento Full Stack. <br>
-Estou extremamente focado em conhecer novas linguagens e ferramentas, além de me aperfeiçoar nas linguagens que já conheço. 👌<br>
-Possuo conhecimento em HTML5, CSS3, Bootstrap, Javascript, ReactJs, AngularJs Java, Springboot, MySQL e Git. ✔
+O meu nome é Charles, sou um desenvolvedor Java. <br>
+Possuo alguns projetos em produção e também estou sempre me inscrevendo em novos cursos para que possa aperfeiçoar cada vez mais as minhas habilidades.
+Possuo conhecimento em HTML5, CSS3, Bootstrap, Javascript, ReactJs, AngularJs, Java, Springboot, MySQL, Postgre e Git. ✔
 
-- 👨‍🎓 Possuo formação como Técnico Eletroeletrônico e Engenheiro Eletrônico.
-- 🌱 Conclui recentemente um curso na área de desenvolvimento Full Stack pela Generation Brasil.
-- 🤔 Procuro sempre melhorar as minhas habilidades e auxiliar outras pessoas a se desenvolverem.
+- 👨‍🎓 Possuo formação como Desenvolvedor Java Júnior, Técnico Eletroeletrônico e Engenheiro Eletrônico.<!--- 🌱 Conclui recentemente um curso na área de desenvolvimento Full Stack pela Generation Brasil.-->
+- 🤔 Estou sempre em busca de aperfeiçoar as minhas habilidades pessoais e tenho muito prazer em ajudar outras pessoas.
 - ⚡ Gosto muito de esportes, trilhas e de estar com a família.
 
 <!--
@@ -23,11 +22,14 @@ Possuo conhecimento em HTML5, CSS3, Bootstrap, Javascript, ReactJs, AngularJs Ja
 <div>
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Vscode"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
