@@ -32,6 +32,7 @@ Possuo conhecimento em HTML5, CSS3, Bootstrap, Javascript, ReactJs, AngularJs, J
   <img align="center" alt="PostgreSQL"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Vscode"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitLab" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
 </div>
 <!--  
   <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
@@ -52,7 +53,8 @@ Possuo conhecimento em HTML5, CSS3, Bootstrap, Javascript, ReactJs, AngularJs, J
  <div> 
   <a href="https://www.instagram.com/chaaarlees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:charlesoliveira0293@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/charles-roberto-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/charles-roberto-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/CharlesTechPark" target="_blank"><img src="https://img.shields.io/badge/-GitLab-6610f2?logo=gitlab&style=for-the-badge" target="_blank"></a>
  </div>
  
  <br>
