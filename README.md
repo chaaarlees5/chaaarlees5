@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) ao meu Github. 👋
 
 O meu nome é Charles, sou um desenvolvedor Java. <br>
-Possuo alguns projetos em produção e també estou sempre fazendo novos cursos para que possa aperfeiçoar cada vez mais as minhas habilidades.<br>
+Possuo alguns projetos em produção e também estou sempre fazendo novos cursos para que possa aperfeiçoar cada vez mais as minhas habilidades.<br>
 Possuo conhecimento em HTML5, CSS3, Bootstrap, Javascript, ReactJs, AngularJs, Java, Springboot, MySQL, PostgreSQL e Git. ✔
 
 - 👨‍🎓 Possuo formação como Desenvolvedor Java Júnior, Técnico Eletroeletrônico e Engenheiro Eletrônico.<!--- 🌱 Conclui recentemente um curso na área de desenvolvimento Full Stack pela Generation Brasil.-->
